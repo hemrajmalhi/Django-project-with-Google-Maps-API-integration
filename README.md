@@ -1,4 +1,4 @@
-# Django Project with Google Maps API Integration
+# Django Project with Google Maps API Integration 
 
 This is a Django project that integrates the Google Maps API to display maps and location data. The project includes a Django application that allows users to search for locations on the map and view additional details about those locations.
 
@@ -15,7 +15,7 @@ To install this project, you will need to have Python and Django installed on yo
 
 Once the Django server is running, you can access the project by navigating to `http://localhost:8000/` in your web browser. From there, you can use the search bar to search for locations and view them on the map.
 
-## Contributing
+## Contributing😎😎
 
 Contributions to this project are welcome! If you would like to contribute, please fork this repository and submit a pull request. Please follow the coding standards and guidelines outlined in the `CONTRIBUTING.md` file.
 
