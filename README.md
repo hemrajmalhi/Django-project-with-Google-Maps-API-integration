@@ -17,5 +17,4 @@ Once the Django server is running, you can access the project by navigating to `
 
 ## Contributing😎😎
 
-Contributions to this project are welcome! If you would like to contribute, please fork this repository and submit a pull request. Please follow the coding standards and guidelines outlined in the `CONTRIBUTING.md` file.
-
+Contributions to this project are welcome! If you would like to contribute, please fork this repository and submit a pull request. 
